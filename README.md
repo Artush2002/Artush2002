@@ -1,6 +1,6 @@
 # 👋🏻 Hi there, I am Artush Aghajanyan!
 
-* Self-taught frontend engineer
+* Self-taught frontend developer
 * <details>
   <summary>🔧 Стек технологий</summary>
   
